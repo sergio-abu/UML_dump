@@ -1,2 +1,2 @@
 # UML_dump
-UML diagrams I made.
+UML diagrams and software documentation I made.
